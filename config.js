@@ -43,7 +43,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "Manu-MD&LRVSgQSA#Yy0nqMM8qD9UEtmZ9vG-ynlhH2v1kG--51LzdlAH6p0",
+SESSION_ID: process.env.SESSION_ID || "Manu-MD&bZFiCKQK#OJT4JPViWxEifX7Zsu0ZpQdomy6K9Rc5ll_h6YQB8lg",
 ALIVE_IMG : process.env.ALIVE_IMG || "https://telegra.ph/file/ef48cc8d2d26081f7d46a.jpg",
 ALIVE_MSG : process.env.ALIVE_MSG || "Put your alive messege",
 MENU_IMG : process.env.MENU_IMG || "https://telegra.ph/file/ef48cc8d2d26081f7d46a.jpg",
@@ -67,7 +67,7 @@ ANTI_DELETE: process.env.ANTI_DELETE || "true",
 ALWAYS_ONLINE : process.env.ALWAYS_ONLINE || "false",
 AUTO_TYPING : process.env.AUTO_TYPING || "false",
 AUTO_RECORDING : process.env.AUTO_RECORDING || "false",
-OWNER_NUMBER : process.env.OWNER_NUMBER || "94742274855",
+OWNER_NUMBER : process.env.OWNER_NUMBER || "2349165661959",
 DELCHAT : process.env.DELCHAT || "pm",
 FOOT : process.env.FOOT || "🧚‍♀️𝗠𝗔𝗡𝗨-𝗠𝗗-𝗩❼💗",
 BOT_INFO: process.env.BOT_INFO || "Manu-MD;OFC;0;https://i.ibb.co/GRpbTZp/IMG-20240920-WA0020.jpg;https://whatsapp.com/channel/0029VaN1XMn2ZjCsu9eZQP3R",
